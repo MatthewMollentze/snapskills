@@ -2,9 +2,9 @@
 
 # SNAPSKILLS - Courses on Demand Illustration
 
-Smart Home Automation Product Reseller.
+Snapskills is an online learning and teaching marketplace landing page.
 
-https://mariposa.matthewmollentze.com/
+https://snapskills.matthewmollentze.com/
 
 ![snapskills-screenshot](/snapskills.png)
 
